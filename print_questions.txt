@@ -1,19 +1,19 @@
-Name: <name here>
-Date: <date here>
+Name: <Lyric Marner>
+Date: <June 30, 2021>
 
 Please answer all questions. Consider these notes.
 
 1) What is the color of functions in your IDE?
-
+My functions in my IDE are light yellow (or white it's hard to see). 
 
 2) What is the color of strings in your IDE?
-
+My strings in my IDE are orange.
 
 3) What is the color of comments in your IDE?
-
+My comments in my IDE are green. 
 
 4) What are the names of the values inside the () of a function, like print()?
-
+The names of the values are commands or inputs.
 
 5) What do we encapsulate (surround) text with to make strings?
-
+We surround text with parentheses.
